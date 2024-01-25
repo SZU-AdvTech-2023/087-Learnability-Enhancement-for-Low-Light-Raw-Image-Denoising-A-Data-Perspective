@@ -1,0 +1,10 @@
+__pycache__/*
+images/*
+*.pyc
+*.pth
+*.npy
+saved_model/*
+logs/*
+metrics/*
+*.log
+*.info
